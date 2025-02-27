@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "jinliming2.vscode-go-template",
+        "golang.go",
+        "msyrus.go-doc",
+        "MaxMedia.go-prof",
+        "RapidAPI.vscode-rapidapi-client",
+        "ms-azuretools.vscode-docker",
+        "vscode-icons-team.vscode-icons",
+        "antfu.unocss",
+        "EliverLara.andromeda",
+        "dannymcgee.vscode-go-grammar"
+    ]
+}

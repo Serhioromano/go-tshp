@@ -1,0 +1,11 @@
+{
+  "name": "go-tshp",
+  "version": "1.0.0",
+  "description": "Kant TSHP file to save cement wheight into DBF file",
+  "main": "go-tshp",
+  "scripts": {
+    "run": "go run main.go start --com=COM7 --br=9600"
+  },
+  "author": "Sergey Romanov",
+  "license": "MIT"
+}

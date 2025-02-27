@@ -1,0 +1,32 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/go
+{
+    "name": "Go",
+    "image": "mcr.microsoft.com/devcontainers/go:0-1-bullseye",
+    "postCreateCommand": "bash scripts/post-run.sh",
+    "remoteUser": "root",
+    "features": {
+        "ghcr.io/devcontainers/features/node:1": {
+            "Version": 18
+        },
+        "ghcr.io/devcontainers/features/common-utils:2": {
+            "configureZshAsDefaultShell": true
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "golang.go",
+                "msyrus.go-doc",
+                "MaxMedia.go-prof",
+                "RapidAPI.vscode-rapidapi-client",
+                "ms-azuretools.vscode-docker",
+                "vscode-icons-team.vscode-icons",
+                "antfu.unocss",
+                "EliverLara.andromeda",
+                "dannymcgee.vscode-go-grammar",
+                "ms-vscode.makefile-tools"
+            ]
+        }
+    }
+}

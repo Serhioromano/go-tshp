@@ -1,0 +1,30 @@
+{
+    "makefile.configureOnOpen": false,
+    "cSpell.enabledFileTypes": {
+        "*": false,
+        "go": false,
+        "markdown": true
+    },
+    "cSpell.words": [
+        "Asbest",
+        "BTNGP",
+        "BTNTC",
+        "Callasbest",
+        "charmap",
+        "DATEW",
+        "dbase",
+        "Doliv",
+        "DWORK",
+        "Koncevik",
+        "simonvetter",
+        "Sliv",
+        "Startbegun",
+        "TIMEW",
+        "TPGP",
+        "tshp",
+        "WBAFTER",
+        "WBBFORE",
+        "Разгружатель"
+    ],
+    "files.autoSave": "afterDelay"
+}
